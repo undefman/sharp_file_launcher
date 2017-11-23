@@ -1,0 +1,5 @@
+/home/undefman/Projects/FileLauncher/FileLauncher/bin/Debug/FileLauncher.exe
+/home/undefman/Projects/FileLauncher/FileLauncher/bin/Debug/FileLauncher.pdb
+/home/undefman/Projects/FileLauncher/FileLauncher/obj/x86/Debug/FileLauncher.csproj.CoreCompileInputs.cache
+/home/undefman/Projects/FileLauncher/FileLauncher/obj/x86/Debug/FileLauncher.exe
+/home/undefman/Projects/FileLauncher/FileLauncher/obj/x86/Debug/FileLauncher.pdb
